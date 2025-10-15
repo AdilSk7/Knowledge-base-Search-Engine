@@ -40,6 +40,7 @@
 ```bash
 git clone https://github.com/your-username/unthinkable-demo.git
 cd unthinkable-demo
+```
 
 ### 2️⃣ Backend Setup
 ```bash
@@ -47,6 +48,7 @@ cd server
 npm install
 # Set environment variables (see .env.example)
 npm start
+```
 
 ### 3️⃣ Frontend Setup
 ```bash
