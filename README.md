@@ -57,16 +57,18 @@ npm install
 npm run dev
 
 ```
-### 📁 Project Structure Overview
+## 📁 Project Structure Overview
 unthinkable-demo/
-  ├── client/
-  │   ├── src/
-  │   ├── vite.config.js
-  │   └── package.json
-  ├── server/
-  │   ├── src/
-  │   ├── uploads/
-  │   └── package.json
+│
+├── client/
+│ ├── src/
+│ ├── vite.config.js
+│ └── package.json
+│
+├── server/
+│ ├── src/
+│ ├── uploads/
+│ └── package.json
 
 ### 📞 Contact
 
