@@ -2,11 +2,10 @@
 
 A full-stack web application built with React (Vite) and Node.js (Express), designed to deliver seamless client–server interaction with real-time updates and clean modular architecture.
 
+### View Application Working
+
+---
 ### Workflow
-
-Uploading Knowledge-base search engine demo video.mp4…
-
-
 
 1. **Frontend (client)** handles user interaction, form submission, and UI rendering.  
 2. **Backend (server)** manages API routes, data storage, and logic.  
@@ -14,7 +13,6 @@ Uploading Knowledge-base search engine demo video.mp4…
 4. Files can be uploaded to the server for temporary or persistent use.
 
 ---
-### View Application Working
 
 
 ## ✨ Features
