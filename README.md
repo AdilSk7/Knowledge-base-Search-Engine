@@ -58,6 +58,14 @@ npm run dev
 
 ```
 
+📚 Usage
+
+   - Upload PDFs via the frontend
+   - Ask questions about your documents
+   - View answers with references and page images
+   - Reset the database as needed if need be to work with a different set of documents
+
+
 ## 📁 Project Structure Overview
 ```bash
 
