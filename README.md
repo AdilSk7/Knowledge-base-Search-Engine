@@ -58,7 +58,7 @@ npm run dev
 
 ```
 
-📚 Usage
+### 📚 Usage
 
    - Upload PDFs via the frontend
    - Ask questions about your documents
